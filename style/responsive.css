@@ -1,0 +1,15 @@
+/* laptop device */
+@media screen and (max-width:1280px){
+.box-continer {
+    display: flex;
+    flex-direction: column;
+}
+}
+/* Tablet device */
+@media screen and (max-width:1024px){
+
+}
+/* mobile device up to 425px*/
+@media screen and (max-width:640px) {
+
+}
